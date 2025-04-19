@@ -13,7 +13,7 @@ body {
     background:url(images/header-image_6_11zon.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7)),rgba(0,0,o,0.7), url() no repeaat center center/cover;
     width: 100%;
-    filter: brightness(30%);
+    filter: brightness(60%);
     height: 100vh;
     padding: 10px 8%;
     position: relative;
