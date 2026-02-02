@@ -25,7 +25,6 @@ This Netflix Clone recreates the core visual components of Netflix, including th
 Netflix-Clone/  
 ├── index.html  
 ├── style.css  
-├── script.js  
 ├── assets/  
 │   ├── images/  
 │   └── icons/  
