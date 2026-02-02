@@ -17,17 +17,14 @@ This Netflix Clone recreates the core visual components of Netflix, including th
 ## Technologies Used
 
 - HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
+- CSS3 
 
 ## Project Structure
 
 Netflix-Clone/  
 ├── index.html  
-├── style.css  
-├── assets/  
-│   ├── images/  
-│   └── icons/  
+├── style.css   
+├── images/   
 └── README.md  
 
 ## Getting Started
