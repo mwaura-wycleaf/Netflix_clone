@@ -32,10 +32,10 @@ Netflix-Clone/
 To run this project locally:
 
 1. Clone the repository  
-   git clone https://github.com/your-username/netflix_clone.git  
+   git clone https://github.com/your-username/Netflix_clone.git  
 
 2. Navigate to the project directory  
-   cd netflix-clone  
+   cd Netflix-clone  
 
 3. Open index.html in your browser  
 
