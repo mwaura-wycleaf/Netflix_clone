@@ -25,6 +25,7 @@ Netflix-Clone/
 ├── index.html  
 ├── style.css   
 ├── images/
+
 └── README.md  
 
 ## Getting Started
