@@ -1,6 +1,6 @@
 **# Netflix Clone 🎬
 
-A responsive Netflix clone built to replicate the look and feel of the original Netflix streaming platform. The project focuses on UI design, layout structure, responsiveness, and front-end interactions. It is purely intended for learning and practice.
+A Netflix clone built to replicate the look and feel of the original Netflix streaming platform. The project focuses on UI design, layout structure, responsiveness, and front-end interactions. It is purely intended for learning and practice.
 
 ## Project Overview
 
